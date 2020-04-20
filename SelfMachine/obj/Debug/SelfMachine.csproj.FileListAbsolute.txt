@@ -12,3 +12,10 @@ C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\obj\Debug\SelfMachin
 C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\obj\Debug\SelfMachine.dll
 C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\obj\Debug\SelfMachine.pdb
 C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\obj\Debug\SelfMachine.csprojAssemblyReference.cache
+C:\code\git\SelfMachineNew\SelfMachine\bin\SelfMachine.dll.config
+C:\code\git\SelfMachineNew\SelfMachine\bin\SelfMachine.dll
+C:\code\git\SelfMachineNew\SelfMachine\bin\SelfMachine.pdb
+C:\code\git\SelfMachineNew\SelfMachine\obj\Debug\SelfMachine.csprojAssemblyReference.cache
+C:\code\git\SelfMachineNew\SelfMachine\obj\Debug\SelfMachine.csproj.CoreCompileInputs.cache
+C:\code\git\SelfMachineNew\SelfMachine\obj\Debug\SelfMachine.dll
+C:\code\git\SelfMachineNew\SelfMachine\obj\Debug\SelfMachine.pdb

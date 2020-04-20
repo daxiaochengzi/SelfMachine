@@ -6,20 +6,23 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\bin\Release\Publish</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\code\git\SelfMachineNew\SelfMachine\bin\Release\Publish</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/SelfMachine.dll">
-      <publishTime>12/04/2019 20:27:31</publishTime>
+      <publishTime>04/20/2020 12:30:47</publishTime>
     </File>
     <File Include="bin/SelfMachine.pdb">
-      <publishTime>12/04/2019 20:27:31</publishTime>
+      <publishTime>04/20/2020 12:30:47</publishTime>
     </File>
     <File Include="SelfMachineService.asmx">
       <publishTime>08/20/2019 09:59:08</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/20/2019 14:29:47</publishTime>
+      <publishTime>04/20/2020 12:24:10</publishTime>
+    </File>
+    <File Include="YiBinSelfMachineService.asmx">
+      <publishTime>04/20/2020 11:30:57</publishTime>
     </File>
   </ItemGroup>
 </Project>
