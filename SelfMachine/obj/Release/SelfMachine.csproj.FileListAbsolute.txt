@@ -1,0 +1,13 @@
+C:\code\SelfMachine\SelfMachine\SelfMachine\bin\SelfMachine.dll.config
+C:\code\SelfMachine\SelfMachine\SelfMachine\bin\SelfMachine.dll
+C:\code\SelfMachine\SelfMachine\SelfMachine\bin\SelfMachine.pdb
+C:\code\SelfMachine\SelfMachine\SelfMachine\obj\Release\SelfMachine.csproj.CoreCompileInputs.cache
+C:\code\SelfMachine\SelfMachine\SelfMachine\obj\Release\SelfMachine.dll
+C:\code\SelfMachine\SelfMachine\SelfMachine\obj\Release\SelfMachine.pdb
+C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\bin\SelfMachine.dll.config
+C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\bin\SelfMachine.dll
+C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\bin\SelfMachine.pdb
+C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\obj\Release\SelfMachine.csprojAssemblyReference.cache
+C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\obj\Release\SelfMachine.csproj.CoreCompileInputs.cache
+C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\obj\Release\SelfMachine.dll
+C:\code\git\SelfMachine\SelfMachine\SelfMachine\SelfMachine\obj\Release\SelfMachine.pdb
